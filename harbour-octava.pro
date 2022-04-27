@@ -29,7 +29,7 @@ INSTALLS += sounds
     sounds.files = sounds
     sounds.path = /usr/share/$${TARGET}
 
-SAILFISHAPP_ICONS = 86x86 108x108 128x128 172x172
+SAILFISHAPP_ICONS = 86x86 108x108 128x128 172x172 256x256
 
 # to disable building translations every time, comment out the
 # following CONFIG line
