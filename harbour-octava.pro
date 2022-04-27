@@ -17,6 +17,7 @@ CONFIG += sailfishapp
 SOURCES += src/harbour-octava.cpp
 
 DISTFILES += qml/harbour-octava.qml \
+    icons/256x256/harbour-octava.png \
     qml/cover/CoverPage.qml \
     qml/pages/PianoPad.qml \
     rpm/harbour-octava.spec \

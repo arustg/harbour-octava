@@ -22,7 +22,7 @@ Column {
         opacity: Theme.highlightBackgroundOpacity
         MouseArea {
             anchors.fill: parent
-            onPressed:  { playС0.play() }
+            onReleased:  { playС0.play() }
         }
     }
     Rectangle {
@@ -36,7 +36,7 @@ Column {
         opacity: Theme.highlightBackgroundOpacity
         MouseArea {
             anchors.fill: parent
-            onPressed:  { playB.play() }
+            onReleased:  { playB.play() }
         }
     }
     Rectangle {
@@ -50,7 +50,7 @@ Column {
         opacity: Theme.highlightBackgroundOpacity
         MouseArea {
             anchors.fill: parent
-            onPressed:  { playA.play() }
+            onReleased:  { playA.play() }
         }
     }
     Rectangle {
@@ -64,7 +64,7 @@ Column {
         opacity: Theme.highlightBackgroundOpacity
         MouseArea {
             anchors.fill: parent
-            onPressed:  { playG.play() }
+            onReleased:  { playG.play() }
         }
     }
     Rectangle {
@@ -78,7 +78,7 @@ Column {
         opacity: Theme.highlightBackgroundOpacity
         MouseArea {
             anchors.fill: parent
-            onPressed:  { playF.play() }
+            onReleased:  { playF.play() }
         }
     }
     Rectangle {
@@ -92,7 +92,7 @@ Column {
         opacity: Theme.highlightBackgroundOpacity
         MouseArea {
             anchors.fill: parent
-            onPressed:  { playE.play() }
+            onReleased:  { playE.play() }
         }
     }
     Rectangle {
@@ -106,7 +106,7 @@ Column {
         opacity: Theme.highlightBackgroundOpacity
         MouseArea {
             anchors.fill: parent
-            onPressed:  { playD.play() }
+            onReleased:  { playD.play() }
         }
     }
     Rectangle {
@@ -120,7 +120,7 @@ Column {
         opacity: Theme.highlightBackgroundOpacity
         MouseArea {
             anchors.fill: parent
-            onPressed:  { playC.play() }
+            onReleased:  { playC.play() }
         }
     }
     Rectangle {
@@ -134,7 +134,7 @@ Column {
         opacity: Theme.highlightBackgroundOpacity
         MouseArea {
             anchors.fill: parent
-            onPressed:  { playB0.play() }
+            onReleased:  { playB0.play() }
         }
     }
 }
@@ -156,7 +156,7 @@ Column {
         opacity: Theme.highlightBackgroundOpacity
         MouseArea {
             anchors.fill: parent
-            onPressed:  { playBb.play() }
+            onReleased:  { playBb.play() }
         }
     }
     Rectangle {
@@ -170,7 +170,7 @@ Column {
         opacity: Theme.highlightBackgroundOpacity
         MouseArea {
             anchors.fill: parent
-            onPressed:  { playAb.play() }
+            onReleased:  { playAb.play() }
         }
     }
     Rectangle {
@@ -184,7 +184,7 @@ Column {
         opacity: Theme.highlightBackgroundOpacity
         MouseArea {
             anchors.fill: parent
-            onPressed:  { playGb.play() }
+            onReleased:  { playGb.play() }
         }
     }
     Rectangle {
@@ -205,7 +205,7 @@ Column {
         opacity: Theme.highlightBackgroundOpacity
         MouseArea {
             anchors.fill: parent
-            onPressed:  { playEb.play() }
+            onReleased:  { playEb.play() }
         }
     }
     Rectangle {
@@ -219,7 +219,7 @@ Column {
         opacity: Theme.highlightBackgroundOpacity
         MouseArea {
             anchors.fill: parent
-            onPressed:  { playDb.play() }
+            onReleased:  { playDb.play() }
       }
     }
   }
