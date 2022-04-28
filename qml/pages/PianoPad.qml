@@ -192,7 +192,7 @@ Column {
         width: 500
         height: 200
         color: Theme.backgroundGlowColor
-        opacity: Theme.highlightBackgroundOpacity
+        opacity: 0
     }
     Rectangle {
         id: pianokey11
