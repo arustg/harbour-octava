@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 17.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="86px"
+   height="86px"
+   viewBox="0 0 86 86"
+   enable-background="new 0 0 86 86"
+   xml:space="preserve"
+   id="svg1151"
+   sodipodi:docname="harbour-octava.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:export-filename="/home/arustg/Projects/harbour-octava/icons/256x256/harbour-octava.png"
+   inkscape:export-xdpi="285.76746"
+   inkscape:export-ydpi="285.76746"><metadata
+   id="metadata1157"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs1155">
+	
+		<linearGradient
+   gradientTransform="matrix(0,1,1,0,134.9995,655.0005)"
+   y2="-134.7"
+   x2="-612"
+   y1="-49.299999"
+   x1="-612"
+   gradientUnits="userSpaceOnUse"
+   id="SVGID_1_">
+		<stop
+   id="stop1038"
+   style="stop-color:#008075"
+   offset="0" />
+		<stop
+   id="stop1040"
+   style="stop-color:#00BFAF"
+   offset="1" />
+	</linearGradient>
+	
+	
+	
+	
+	
+	
+</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="954"
+   id="namedview1153"
+   showgrid="false"
+   inkscape:zoom="3.2559801"
+   inkscape:cx="38.434371"
+   inkscape:cy="72.084447"
+   inkscape:window-x="0"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg1151" />
+<g
+   id="Layer_2"
+   display="none">
+</g>
+<path
+   style="fill:#ffffff;fill-opacity:1"
+   inkscape:connector-curvature="0"
+   id="path1043"
+   d="m 0.2995,43.0005 c 0,-23.581 19.117,-42.7 42.7,-42.7 h 39.285 c 1.879,0 3.416,1.538 3.416,3.416 v 39.284 39.284 c 0,1.879 -1.537,3.416 -3.416,3.416 h -39.285 c -23.583,0 -42.7,-19.117 -42.7,-42.7 z" />
+<rect
+   id="octave-2-C-key"
+   class="piano-key white-key"
+   data-piano-key="C"
+   x="-84.993523"
+   y="41.964828"
+   width="12.005345"
+   height="43.16119"
+   style="fill:none;stroke:#555555;stroke-width:0.12725036"
+   transform="rotate(-90)" /><rect
+   id="octave-2-D-key"
+   class="piano-key white-key"
+   data-piano-key="D"
+   x="-72.98819"
+   y="41.964828"
+   width="12.005345"
+   height="43.16119"
+   style="fill:none;stroke:#555555;stroke-width:0.12725036"
+   transform="rotate(-90)" /><rect
+   id="octave-2-E-key"
+   class="piano-key white-key"
+   data-piano-key="E"
+   x="-60.982838"
+   y="41.964828"
+   width="12.005345"
+   height="43.16119"
+   style="fill:none;stroke:#555555;stroke-width:0.12725036"
+   transform="rotate(-90)" /><rect
+   id="octave-2-F-key"
+   class="piano-key white-key"
+   data-piano-key="F"
+   x="-48.977505"
+   y="41.964828"
+   width="12.005345"
+   height="43.16119"
+   style="fill:none;stroke:#555555;stroke-width:0.12725036"
+   transform="rotate(-90)" /><rect
+   id="octave-2-G-key"
+   class="piano-key white-key"
+   data-piano-key="G"
+   x="-36.972149"
+   y="41.964828"
+   width="12.005345"
+   height="43.16119"
+   style="fill:none;stroke:#555555;stroke-width:0.12725036"
+   transform="rotate(-90)" /><rect
+   id="octave-2-A-key"
+   class="piano-key white-key"
+   data-piano-key="A"
+   x="-24.966806"
+   y="41.964828"
+   width="12.005345"
+   height="43.16119"
+   style="fill:none;stroke:#555555;stroke-width:0.12725036"
+   transform="rotate(-90)" /><rect
+   id="octave-2-B-key"
+   class="piano-key white-key"
+   data-piano-key="B"
+   x="-12.961467"
+   y="41.964828"
+   width="12.005345"
+   height="43.16119"
+   style="fill:none;stroke:#555555;stroke-width:0.12731634;stroke-miterlimit:4;stroke-dasharray:none"
+   transform="rotate(-90)" /><rect
+   id="octave-2-C#-key"
+   class="piano-key black-key"
+   data-piano-key="C#"
+   x="-76.000298"
+   y="41.953564"
+   width="6.0046349"
+   height="20.641024"
+   style="fill:#4b4b4b;stroke:#979797;stroke-width:0.10519615"
+   transform="rotate(-90)" /><rect
+   id="octave-2-D#-key"
+   class="piano-key black-key"
+   data-piano-key="D#"
+   x="-63.991043"
+   y="41.953564"
+   width="6.0046349"
+   height="20.641024"
+   style="fill:#4b4b4b;stroke:#979797;stroke-width:0.10519615"
+   transform="rotate(-90)" /><rect
+   id="octave-2-F#-key"
+   class="piano-key black-key"
+   data-piano-key="F#"
+   x="-39.972507"
+   y="41.953564"
+   width="6.0046349"
+   height="20.641024"
+   style="fill:#4b4b4b;stroke:#979797;stroke-width:0.10519615"
+   transform="rotate(-90)" /><rect
+   id="octave-2-G#-key"
+   class="piano-key black-key"
+   data-piano-key="G#"
+   x="-27.963238"
+   y="41.953564"
+   width="6.0046349"
+   height="20.641024"
+   style="fill:#4b4b4b;stroke:#979797;stroke-width:0.10519615"
+   transform="rotate(-90)" /><rect
+   id="octave-2-A#-key"
+   class="piano-key black-key"
+   data-piano-key="A#"
+   x="-15.953968"
+   y="41.953564"
+   width="6.0046349"
+   height="20.641024"
+   style="fill:#4b4b4b;stroke:#979797;stroke-width:0.10519615"
+   transform="rotate(-90)" /></svg>
