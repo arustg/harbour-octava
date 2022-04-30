@@ -9,8 +9,8 @@ Name:       harbour-octava
 # << macros
 
 Summary:    Simple Piano Keyboard
-Version:    0.3
-Release:    2
+Version:    0.2
+Release:    0
 Group:      Qt/Qt
 License:    GNU GPLv3
 URL:        https://github.com/arustg/harbour-octava
