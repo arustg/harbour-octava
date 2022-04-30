@@ -16,8 +16,8 @@ Column {
         SoundEffect {
              id: playС0
              source: "/usr/share/harbour-octava/sounds/piano-с0.wav"}
-        width: 600
-        height: 225
+        width: Theme.itemSizeHuge*2
+        height: Theme.itemSizeHuge/1.5
         color: Theme.primaryColor
         opacity: Theme.highlightBackgroundOpacity
         MouseArea {
@@ -35,8 +35,8 @@ Column {
         SoundEffect {
              id: playB
              source: "/usr/share/harbour-octava/sounds/piano-b.wav"}
-        width: 600
-        height: 225
+        width: Theme.itemSizeHuge*2
+        height: Theme.itemSizeHuge/1.5
         color: Theme.primaryColor
         opacity: Theme.highlightBackgroundOpacity
         MouseArea {
@@ -54,8 +54,8 @@ Column {
         SoundEffect {
              id: playA
              source: "/usr/share/harbour-octava/sounds/piano-a.wav"}
-        width: 600
-        height: 225
+        width: Theme.itemSizeHuge*2
+        height: Theme.itemSizeHuge/1.5
         color: Theme.primaryColor
         opacity: Theme.highlightBackgroundOpacity
         MouseArea {
@@ -73,8 +73,8 @@ Column {
         SoundEffect {
              id: playG
              source: "/usr/share/harbour-octava/sounds/piano-g.wav"}
-        width: 600
-        height: 225
+        width: Theme.itemSizeHuge*2
+        height: Theme.itemSizeHuge/1.5
         color: Theme.primaryColor
         opacity: Theme.highlightBackgroundOpacity
         MouseArea {
@@ -92,8 +92,8 @@ Column {
         SoundEffect {
              id: playF
              source: "/usr/share/harbour-octava/sounds/piano-f.wav"}
-        width: 600
-        height: 225
+        width: Theme.itemSizeHuge*2
+        height: Theme.itemSizeHuge/1.5
         color: Theme.primaryColor
         opacity: Theme.highlightBackgroundOpacity
         MouseArea {
@@ -111,8 +111,8 @@ Column {
         SoundEffect {
              id: playE
              source: "/usr/share/harbour-octava/sounds/piano-e.wav"}
-        width: 600
-        height: 225
+        width: Theme.itemSizeHuge*2
+        height: Theme.itemSizeHuge/1.5
         color: Theme.primaryColor
         opacity: Theme.highlightBackgroundOpacity
         MouseArea {
@@ -130,8 +130,8 @@ Column {
         SoundEffect {
              id: playD
              source: "/usr/share/harbour-octava/sounds/piano-d.wav"}
-        width: 600
-        height: 225
+        width: Theme.itemSizeHuge*2
+        height: Theme.itemSizeHuge/1.5
         color: Theme.primaryColor
         opacity: Theme.highlightBackgroundOpacity
         MouseArea {
@@ -149,8 +149,8 @@ Column {
         SoundEffect {
              id: playC
              source: "/usr/share/harbour-octava/sounds/piano-c.wav"}
-        width: 600
-        height: 225
+        width: Theme.itemSizeHuge*2
+        height: Theme.itemSizeHuge/1.5
         color: Theme.primaryColor
         opacity: Theme.highlightBackgroundOpacity
         MouseArea {
@@ -168,8 +168,8 @@ Column {
         SoundEffect {
              id: playB0
              source: "/usr/share/harbour-octava/sounds/piano-b0.wav"}
-        width: 600
-        height: 225
+        width: Theme.itemSizeHuge*2
+        height: Theme.itemSizeHuge/1.5
         color: Theme.primaryColor
         opacity: Theme.highlightBackgroundOpacity
         MouseArea {
@@ -186,7 +186,7 @@ Column {
 
 Column {
     id: topkeys
-    spacing: 50
+    spacing: 30
     anchors.right: parent.horizontalCenter
     anchors.verticalCenter: parent.verticalCenter
 
@@ -195,8 +195,8 @@ Column {
         SoundEffect {
              id: playBb
              source: "/usr/share/harbour-octava/sounds/piano-bb.wav"}
-        width: 500
-        height: 200
+        width: Theme.itemSizeHuge*1.5
+        height: Theme.itemSizeHuge/1.9
         color: Theme.highlightColor
         opacity: Theme.highlightBackgroundOpacity
         MouseArea {
@@ -214,8 +214,8 @@ Column {
         SoundEffect {
              id: playAb
              source: "/usr/share/harbour-octava/sounds/piano-ab.wav"}
-        width: 500
-        height: 200
+        width: Theme.itemSizeHuge*1.5
+        height: Theme.itemSizeHuge/1.9
         color: Theme.highlightColor
         opacity: Theme.highlightBackgroundOpacity
         MouseArea {
@@ -233,8 +233,8 @@ Column {
         SoundEffect {
              id: playGb
              source: "/usr/share/harbour-octava/sounds/piano-gb.wav"}
-        width: 500
-        height: 200
+        width: Theme.itemSizeHuge*1.5
+        height: Theme.itemSizeHuge/1.9
         color: Theme.highlightColor
         opacity: Theme.highlightBackgroundOpacity
         MouseArea {
@@ -249,8 +249,8 @@ Column {
     }
     Rectangle {
         id: pianokey0
-        width: 500
-        height: 200
+        width: Theme.itemSizeHuge*1.5
+        height: Theme.itemSizeHuge/1.9
         color: Theme.backgroundGlowColor
         opacity: 0
     }
@@ -259,8 +259,8 @@ Column {
         SoundEffect {
              id: playEb
              source: "/usr/share/harbour-octava/sounds/piano-eb.wav"}
-        width: 500
-        height: 200
+        width: Theme.itemSizeHuge*1.5
+        height: Theme.itemSizeHuge/1.9
         color: Theme.highlightColor
         opacity: Theme.highlightBackgroundOpacity
         MouseArea {
@@ -278,8 +278,8 @@ Column {
         SoundEffect {
              id: playDb
              source: "/usr/share/harbour-octava/sounds/piano-db.wav"}
-        width: 500
-        height: 200
+        width: Theme.itemSizeHuge*1.5
+        height: Theme.itemSizeHuge/1.9
         color: Theme.highlightColor
         opacity: Theme.highlightBackgroundOpacity
         MouseArea {
