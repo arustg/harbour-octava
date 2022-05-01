@@ -9,7 +9,7 @@ Name:       harbour-octava
 # << macros
 
 Summary:    Simple Piano Keyboard
-Version:    0.2
+Version:    0.2.1
 Release:    0
 Group:      Qt/Qt
 License:    GNU GPLv3
