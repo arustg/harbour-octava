@@ -1,4 +1,5 @@
 # Octava
 Simple Piano Keyboard for SailfishOS
 
- ![photo_2022-05-18_23-48-36f](https://user-images.githubusercontent.com/4253881/169225319-389a0285-87f4-44f5-9a5e-5f1fdf72461c.jpg)
+![photo_2022-05-19_10-36-59g](https://user-images.githubusercontent.com/4253881/169582211-d7b72577-707a-4b85-b795-9eacfb77e77c.jpg)
+
